@@ -1,3 +1,9 @@
+/*********************************
+Robin Dell et Emeline Ehles
+MIT licence
+*********************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
